@@ -87,6 +87,7 @@ El sistema se desarrolló utilizando Make como plataforma principal de integraci
 
 
  ### Fases del desarrollo del proyecto
+ 
  ![Captura de pantalla 2025-05-26 134113](https://github.com/user-attachments/assets/9ea61be1-956b-4590-a9a5-8a2e516b30fd)
 
 **1. Diseño del formulario de recogida de feedback**
@@ -101,6 +102,7 @@ El formulario se conectó con una hoja de cálculo en Google Sheets, donde cada 
 **3. Creación del escenario en Make**
 
 Se diseñó un escenario en Make para vigilar constantemente la llegada de nuevas respuestas al formulario. Este flujo se activa automáticamente con cada nueva fila añadida en la hoja.
+
 ![Captura de pantalla 2025-05-26 134207](https://github.com/user-attachments/assets/f8877ee4-0fdf-4d27-a045-a28e0b5f57ed)
 
 
@@ -111,12 +113,14 @@ Se añadió un filtro en el flujo de Make para identificar las respuestas con pu
 **5. Envío automático de alerta al equipo de soporte**
 
 Cuando se detecta una puntuación baja, se activa un módulo de Gmail que envía automáticamente un correo de alerta al equipo de atención al cliente, con todos los detalles de la opinión para su seguimiento inmediato.
+
 ![Captura de pantalla 2025-05-26 134228](https://github.com/user-attachments/assets/644cc978-8f8b-4a82-a650-6cec00b205e4)
 
 
 **6. Análisis de sentimiento con OpenAI GPT**
 
 A continuación, el texto del comentario es enviado a la API de OpenAI GPT, que clasifica automáticamente el sentimiento del cliente como positivo, neutral o negativo. Esto permite una categorización más precisa basada en el contenido, no solo en la puntuación.
+
 ![Captura de pantalla 2025-05-26 134255](https://github.com/user-attachments/assets/36cebe93-b169-44d1-9adc-43c43af44ca2)
 
 
@@ -129,12 +133,14 @@ Mediante un router en Make, el flujo se divide en tres ramas dependiendo del res
 - Neutral: Se registra el feedback para análisis posterior.
 
 - Negativo: Se refuerza la alerta y se almacena la opinión en una hoja específica para hacer seguimiento.
+
 ![Captura de pantalla 2025-05-26 134311](https://github.com/user-attachments/assets/74af9eda-c489-410c-93ae-7d2131fe40f4)
 
 
 **8. Registro estructurado para análisis posterior**
 
 Todas las respuestas son almacenadas en distintas pestañas de Google Sheets según su categoría de sentimiento. Esto permite construir informes, dashboards o análisis en Power BI con segmentaciones relevantes y accionables.
+
 ![Captura de pantalla 2025-05-26 134328](https://github.com/user-attachments/assets/05e5da42-4e3a-4ca7-9ad4-f9cb7bd63eb8)
 
 ## Reflexiones finales y aprendizajes
