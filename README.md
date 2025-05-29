@@ -87,7 +87,8 @@ El sistema se desarrolló utilizando Make como plataforma principal de integraci
 
 
  ### Fases del desarrollo del proyecto
- 
+ ![Captura de pantalla 2025-05-26 134113](https://github.com/user-attachments/assets/9ea61be1-956b-4590-a9a5-8a2e516b30fd)
+
 **1. Diseño del formulario de recogida de feedback**
 
 Se creó un formulario en Google Forms para capturar la opinión del cliente tras su experiencia. Incluye campos como puntuación general, comentarios positivos y aspectos a mejorar, además de nombre y correo electrónico opcionales.
