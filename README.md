@@ -1,10 +1,10 @@
 # Alerta temprana de clientes insatisfechos con automatización e IA
 ## Impacto empresarial de la automatización del feedback de clientes
-En un entorno donde la experiencia del cliente es un factor diferencial clave, disponer de sistemas que permitan actuar rápidamente ante opiniones negativas es fundamental para mejorar la retención y la reputación de marca.
+En un entorno donde la experiencia del cliente es un factor diferencial clave, **disponer de sistemas que permitan actuar rápidamente ante opiniones negativas es fundamental** para mejorar la retención y la reputación de marca.
 
-Este proyecto consiste en una automatización inteligente del ciclo de feedback de clientes, basada en herramientas no-code y servicios de inteligencia artificial. A partir de un formulario de opinión, se capturan respuestas en tiempo real, se detectan automáticamente las puntuaciones bajas y se activa un correo inmediato al equipo de atención al cliente. A su vez, los comentarios son analizados mediante GPT para clasificar su tono emocional (positivo, neutral o negativo) y, según esa clasificación, se activan acciones personalizadas como emails de agradecimiento, alertas o almacenamiento estructurado para análisis posterior.
+**Este proyecto consiste en una automatización inteligente del ciclo de feedback de clientes**, basada en herramientas no-code y servicios de inteligencia artificial. A partir de un formulario de opinión, se capturan respuestas en tiempo real, se detectan automáticamente las puntuaciones bajas y se activa un correo inmediato al equipo de atención al cliente. A su vez, los comentarios son analizados mediante GPT para clasificar su tono emocional (positivo, neutral o negativo) y, según esa clasificación, se activan acciones personalizadas como emails de agradecimiento, alertas o almacenamiento estructurado para análisis posterior.
 
-Esta automatización proporciona beneficios estratégicos tangibles para cualquier empresa orientada al cliente, entre los que destacan:
+Esta automatización proporciona **beneficios estratégicos tangibles** para cualquier empresa orientada al cliente, entre los que destacan:
 
 **1. Respuesta temprana ante clientes insatisfechos**
 
@@ -145,16 +145,16 @@ Todas las respuestas son almacenadas en distintas pestañas de Google Sheets seg
 
 ## Reflexiones finales y aprendizajes
 
-Este proyecto ha sido una oportunidad para aplicar de forma práctica y combinada muchas de las competencias que estoy desarrollando como analista de datos y profesional orientada a la automatización inteligente de procesos. A través de herramientas no-code, servicios cloud e inteligencia artificial, he podido construir una solución que automatiza por completo la gestión del feedback, desde su captura hasta la respuesta personalizada según el tipo de sentimiento.
+Este proyecto ha sido una oportunidad para aplicar de forma práctica y combinada muchas de las competencias que estoy desarrollando como analista de datos y profesional orientada a la **automatización inteligente de procesos**. A través de herramientas no-code, servicios cloud e inteligencia artificial, he podido construir una **solución que automatiza por completo la gestión del feedback, desde su captura hasta la respuesta personalizada según el tipo de sentimiento.**
 
 
-Uno de los principales aprendizajes ha sido la importancia de diseñar flujos centrados en el usuario final, donde cada dato recogido se traduce en una acción concreta que aporta valor, ya sea mejorando la experiencia del cliente o facilitando el trabajo del equipo interno. 
+Uno de los principales aprendizajes ha sido la importancia de diseñar flujos centrados en el usuario final, donde **cada dato recogido se traduce en una acción concreta que aporta valor**, ya sea mejorando la experiencia del cliente o facilitando el trabajo del equipo interno. 
 ​
 
 Además, este proyecto me ha permitido consolidar habilidades de diseño modular de escenarios, aplicación de lógica condicional, integración entre plataformas y estructuración de datos para su análisis posterior.
 
 
-La experiencia de construir este sistema de principio a fin me ha reafirmado en la importancia de automatizar con propósito: no solo para ahorrar tiempo, sino para tomar decisiones más informadas, rápidas y efectivas.
+La experiencia de construir este sistema de principio a fin me ha reafirmado en la importancia de automatizar con propósito: **no solo para ahorrar tiempo, sino para tomar decisiones más informadas, rápidas y efectivas.**
 
 
 ## Contacto
