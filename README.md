@@ -158,3 +158,9 @@ La experiencia de construir este sistema de principio a fin me ha reafirmado en 
 
 
 ## Contacto
+
+Portafolio: https://catiaazancotc.wixsite.com/catalina-azancot
+
+Linkedin: https://www.linkedin.com/in/catalina-data/
+
+Email: catalina.data1@gmail.com
